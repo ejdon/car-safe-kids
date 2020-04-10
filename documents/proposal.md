@@ -1,8 +1,8 @@
 Safe Ride News
 
-My course project will be a website for Car Safe Kids, a company that hosts events at hospitals where CPA-certified experts help new or expecting families learn how to install car seats correctly into their cars. 9 out of 10 car seats are installed incorrectly and these events hope to maximize vehicle safety for kids throughout the community.
+My course project will be a website for Car Safe Kids, an organization that contracts with area hospitals to conduct child passenger safety events so that certified experts can help new or expecting families learn how to install car seats correctly into their cars. 9 out of 10 car seats are installed incorrectly, so these events hope to maximize vehicle safety for kids throughout the community.
 
-The site will feature a schedule for visitors to access and interact with to gain key details on each event. It will also feature helpful tips and resources, an informational section about the company, and hopefully a form to leave comments on your experience.
+The site will feature a schedule for visitors and staff to gain key details on each event. It will also feature helpful tips and resources, an informational section about the company, and hopefully a form for questions or comments.
 
 Ideally, I want to use an API for the schedule/calendar that returns event information, updates, tips, etc., similar to this site: https://mrproductreviews.com/review/child-seat-inspection-locations-in-wa/#seattle.
 
